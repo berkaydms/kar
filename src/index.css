@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ekstra stil (opsiyonel) */
+body {
+  @apply bg-slate-100;
+}
